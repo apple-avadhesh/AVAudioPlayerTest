@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		967ECD3D25C3DE150097DAF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967ECD3C25C3DE150097DAF1 /* AppDelegate.swift */; };
 		967ECD3F25C3DE150097DAF1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967ECD3E25C3DE150097DAF1 /* SceneDelegate.swift */; };
-		967ECD4125C3DE150097DAF1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967ECD4025C3DE150097DAF1 /* ViewController.swift */; };
+		967ECD4125C3DE150097DAF1 /* AudioPlayerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967ECD4025C3DE150097DAF1 /* AudioPlayerVC.swift */; };
 		967ECD4425C3DE150097DAF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 967ECD4225C3DE150097DAF1 /* Main.storyboard */; };
 		967ECD4625C3DE160097DAF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 967ECD4525C3DE160097DAF1 /* Assets.xcassets */; };
 		967ECD4925C3DE160097DAF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 967ECD4725C3DE160097DAF1 /* LaunchScreen.storyboard */; };
+		967ECD5325C3DF630097DAF1 /* TestAudio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 967ECD5225C3DF630097DAF1 /* TestAudio.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		967ECD3925C3DE150097DAF1 /* AVAudioPlayerTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVAudioPlayerTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		967ECD3C25C3DE150097DAF1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		967ECD3E25C3DE150097DAF1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		967ECD4025C3DE150097DAF1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		967ECD4025C3DE150097DAF1 /* AudioPlayerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerVC.swift; sourceTree = "<group>"; };
 		967ECD4325C3DE150097DAF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		967ECD4525C3DE160097DAF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		967ECD4825C3DE160097DAF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		967ECD4A25C3DE160097DAF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		967ECD5225C3DF630097DAF1 /* TestAudio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TestAudio.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +58,10 @@
 		967ECD3B25C3DE150097DAF1 /* AVAudioPlayerTest */ = {
 			isa = PBXGroup;
 			children = (
+				967ECD5225C3DF630097DAF1 /* TestAudio.mp3 */,
 				967ECD3C25C3DE150097DAF1 /* AppDelegate.swift */,
 				967ECD3E25C3DE150097DAF1 /* SceneDelegate.swift */,
-				967ECD4025C3DE150097DAF1 /* ViewController.swift */,
+				967ECD4025C3DE150097DAF1 /* AudioPlayerVC.swift */,
 				967ECD4225C3DE150097DAF1 /* Main.storyboard */,
 				967ECD4525C3DE160097DAF1 /* Assets.xcassets */,
 				967ECD4725C3DE160097DAF1 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				967ECD5325C3DF630097DAF1 /* TestAudio.mp3 in Resources */,
 				967ECD4925C3DE160097DAF1 /* LaunchScreen.storyboard in Resources */,
 				967ECD4625C3DE160097DAF1 /* Assets.xcassets in Resources */,
 				967ECD4425C3DE150097DAF1 /* Main.storyboard in Resources */,
@@ -137,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				967ECD4125C3DE150097DAF1 /* ViewController.swift in Sources */,
+				967ECD4125C3DE150097DAF1 /* AudioPlayerVC.swift in Sources */,
 				967ECD3D25C3DE150097DAF1 /* AppDelegate.swift in Sources */,
 				967ECD3F25C3DE150097DAF1 /* SceneDelegate.swift in Sources */,
 			);

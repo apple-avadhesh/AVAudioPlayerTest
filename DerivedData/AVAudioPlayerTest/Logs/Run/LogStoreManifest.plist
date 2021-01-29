@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>14BD9047-E8B1-406E-B12D-CDCBB0AC8A9E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>14BD9047-E8B1-406E-B12D-CDCBB0AC8A9E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AVAudioPlayerTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AVAudioPlayerTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AVAudioPlayerTest</string>
+			<key>timeStartedRecording</key>
+			<real>633596396.37678504</real>
+			<key>timeStoppedRecording</key>
+			<real>633596447.18138301</real>
+			<key>title</key>
+			<string>Run AVAudioPlayerTest</string>
+			<key>uniqueIdentifier</key>
+			<string>14BD9047-E8B1-406E-B12D-CDCBB0AC8A9E</string>
+		</dict>
+		<key>5956DA58-7AFB-4BC7-B6D6-E6AD4E72D97C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5956DA58-7AFB-4BC7-B6D6-E6AD4E72D97C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AVAudioPlayerTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AVAudioPlayerTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AVAudioPlayerTest</string>
+			<key>timeStartedRecording</key>
+			<real>633596917.24277306</real>
+			<key>timeStoppedRecording</key>
+			<real>633596942.82922995</real>
+			<key>title</key>
+			<string>Run AVAudioPlayerTest</string>
+			<key>uniqueIdentifier</key>
+			<string>5956DA58-7AFB-4BC7-B6D6-E6AD4E72D97C</string>
+		</dict>
+		<key>7D3CEBE1-FA2D-453C-ABB7-EDE3EB29DE64</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7D3CEBE1-FA2D-453C-ABB7-EDE3EB29DE64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AVAudioPlayerTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AVAudioPlayerTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AVAudioPlayerTest</string>
+			<key>timeStartedRecording</key>
+			<real>633596451.02042603</real>
+			<key>timeStoppedRecording</key>
+			<real>633596642.20313895</real>
+			<key>title</key>
+			<string>Run AVAudioPlayerTest</string>
+			<key>uniqueIdentifier</key>
+			<string>7D3CEBE1-FA2D-453C-ABB7-EDE3EB29DE64</string>
+		</dict>
+		<key>E474634E-B510-457E-AA39-E7DA07D6548E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E474634E-B510-457E-AA39-E7DA07D6548E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AVAudioPlayerTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AVAudioPlayerTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AVAudioPlayerTest</string>
+			<key>timeStartedRecording</key>
+			<real>633596900.00069904</real>
+			<key>timeStoppedRecording</key>
+			<real>633596915.48590302</real>
+			<key>title</key>
+			<string>Run AVAudioPlayerTest</string>
+			<key>uniqueIdentifier</key>
+			<string>E474634E-B510-457E-AA39-E7DA07D6548E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
