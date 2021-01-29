@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "97a84920d5e88c3e6dd2f76c80e68e48"
-build_time: [1611904116, 198887000]
-inputs:
-  "/Users/work/Desktop/Github/AVAudioPlayerTest/AVAudioPlayerTest/AudioPlayerVC.swift": [1611904116, 106705534]
-  "/Users/work/Desktop/Github/AVAudioPlayerTest/AVAudioPlayerTest/AppDelegate.swift": [1611900565, 70023775]
-  "/Users/work/Desktop/Github/AVAudioPlayerTest/AVAudioPlayerTest/SceneDelegate.swift": [1611900565, 82229276]
